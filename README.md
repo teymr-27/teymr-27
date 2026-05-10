@@ -1,16 +1,14 @@
-## Hi there 👋
+# Java Basic Demo
 
-<!--
-**teymr-27/teymr-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi primer proyecto en Java utilizando NetBeans.
 
-Here are some ideas to get you started:
+## Temas practicados
+- Variables int
+- JOptionPane
+- Operaciones matemáticas
+- Impresión de texto
+- Lógica básica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Herramientas utilizadas
+- Java
+- NetBeans IDE
